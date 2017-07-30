@@ -1,4 +1,4 @@
-#Ladies Learning Code
+#I was a mentor during this Ladies Learning Code workshop. My main role was to keep participants engaged in the material and answer any technical questions to progress through exercises.
 
 ##Intro to Python
 
